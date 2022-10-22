@@ -5,3 +5,11 @@ microsoft-edge/
 xfce4/
 tags
 awesome/
+*.bak
+dolphinrc
+inkscape/
+kde.org/
+gtk-3.0/
+session/
+ynote-desktop/
+window-geometry.conf
