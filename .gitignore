@@ -15,3 +15,6 @@ ynote-desktop/
 window-geometry.conf
 awesome
 tags
+fcitx/
+fcitx5/
+ibus/
