@@ -8,8 +8,8 @@ layer=top
 term=foot
 
 ## Geometry
-width=500px
-height=305px
+width=800px
+height=505px
 location=0
 orientation=vertical
 halign=fill
