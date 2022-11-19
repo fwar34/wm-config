@@ -1,7 +1,7 @@
 /** ********** Fonts ********** **/
 * {
     font-family: "JetBrains Mono", "Iosevka Nerd Font", archcraft, sans-serifJetBrains Mono,Ubuntu Nerd Font,Weather Icons,sans-serif;
-    font-size: 15px;
+    font-size: 18px;
 }
 
 /** ********** Waybar Window ********** **/
@@ -154,14 +154,14 @@ window#waybar.hidden {
 	background-color: #e6ed7b;
 	margin-right: 6px;
 	padding: 2px 8px;
-	font-size: 12px;
+	font-size: 14px;
 }
 
 #custom-weather {
 	background-color: #cba6f7;
 	margin-right: 6px;
 	padding: 2px 8px;
-	font-size: 12px;
+	font-size: 14px;
 }
 
 /** Common style **/
